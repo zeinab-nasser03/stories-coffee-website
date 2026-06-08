@@ -1,13 +1,13 @@
-# ☕ Stories Coffee Website
+# stories-coffee-website
 
-## 📖 Project Overview
+## Project Overview
 
 Stories Coffee Website is a responsive multi-page website developed using HTML and CSS. The project was created as part of a Web Development Internship Level 1 task to demonstrate the fundamentals of frontend web development.
 
 The website represents a fictional coffee shop and includes multiple pages, modern styling, responsive design, and interactive UI elements.
 
 
-## ✨ Features
+## Features
 
 * Responsive navigation bar
 * Modern hero section
@@ -21,7 +21,7 @@ The website represents a fictional coffee shop and includes multiple pages, mode
 * Mobile-friendly design using CSS media queries
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -29,7 +29,7 @@ The website represents a fictional coffee shop and includes multiple pages, mode
 * Google Fonts (Poppins)
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Stories-Coffee/
@@ -72,7 +72,7 @@ Stories-Coffee/
 * Contact form
 
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is fully responsive and adapts to different screen sizes including:
 
@@ -84,7 +84,7 @@ CSS Flexbox, Grid, and Media Queries were used to ensure a smooth user experienc
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Download or clone the project.
 2. Open the project folder.
@@ -93,7 +93,7 @@ CSS Flexbox, Grid, and Media Queries were used to ensure a smooth user experienc
 No additional installation or dependencies are required.
 
 
-## 🎯 Learning Objectives Achieved
+## Learning Objectives Achieved
 
 * Creating multi-page websites
 * Structuring content with HTML5
@@ -104,7 +104,7 @@ No additional installation or dependencies are required.
 * Organizing project files professionally
 
 
-## 👩‍💻 Author
+## Author
 
 **Zeinab Nasser**
 
